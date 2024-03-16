@@ -1,4 +1,4 @@
-This  is a game named "pi-game" built using HTML,CSS and JS.
+This  is a game named "pig-game" built using HTML,CSS and JS.
 
 Here are the Rules:
 
